@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/157723863.svg)](https://zenodo.org/badge/latestdoi/157723863)
+
 # mst_deaf
 
 Scripts to process functional brain networks, collected in deaf and hearing individuals.
